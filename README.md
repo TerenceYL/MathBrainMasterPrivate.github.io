@@ -2,7 +2,7 @@
 
 **生效日期：** 2025 年 11 月 21 日
 
-本應用程式（以下簡稱「本 數學大腦練習 (Math Brain Practies) App」）由 鈦錀鍶, TerenceBSPlayer 開發與維護。
+本應用程式（以下簡稱「本 數學大腦練習/速算 (Math Brain Practies/Master) App」）由 鈦錀鍶, TerenceBSPlayer 開發與維護。
 
 本政策旨在向所有使用者，特別是家長們，明確說明本 App 的資料處理方式。
 
